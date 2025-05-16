@@ -26,4 +26,4 @@ In RabbitMQ (a popular AMQP implementation), "guest/guest" are the default crede
 
 The complete format is: `amqp://username:password@hostname:port`
 
-,,,,
+![image](https://github.com/user-attachments/assets/da816b92-6349-4c36-b0a8-3bf5eb1365eb)
