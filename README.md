@@ -27,3 +27,6 @@ In RabbitMQ (a popular AMQP implementation), "guest/guest" are the default crede
 The complete format is: `amqp://username:password@hostname:port`
 
 ![image](https://github.com/user-attachments/assets/da816b92-6349-4c36-b0a8-3bf5eb1365eb)
+
+![image](https://github.com/user-attachments/assets/7089b0d0-f2cf-42a4-8493-598bc6da6882)
+In my dashboard it displays 0 messages in all queues at this moment, this means that all published messages have been fully processed
